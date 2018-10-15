@@ -1,0 +1,93 @@
+li {
+    padding: 10px;
+    margin: 10px;
+    background: yellow;
+    list-style: none;
+  }
+  
+  ul {
+      list-style: none;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .center {
+      text-align: center;
+  }
+  
+  .right {
+      align-content: right;
+  }
+  
+  img {
+      align-content: center;
+  }
+  
+  h1 {
+      text-align: center;
+      text-shadow: 2px 2px #ffffff;
+  }
+  
+  h2 {
+      text-align: center;
+      text-shadow: 2px 2px #ffffff;
+  }
+  
+  .create-update-form {
+    padding: 20px;
+    margin: 25px;
+    background: #eceff1;
+    border: 2px yellow solid;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary {
+      border-radius: 20px;
+  }
+  
+  html, body{
+      height: 100%;
+  }
+  body { 
+      background-image: url(https://www.seriouseats.com/recipes/images/2015/07/20150728-homemade-whopper-food-lab-35-1500x1125.jpg) ;
+      background-position: center center;
+      background-repeat:  no-repeat;
+      background-attachment: fixed;
+      background-size:  cover;
+      background-color:#dfdb0d;  
+  }
+  
+  div, body{
+      margin: 0;
+      padding: 0;
+      font-family: exo, sans-serif;
+      color: black;
+  }
+  
+  .footer {
+      text-align: center;
+      text-shadow: 1px 1px #ffffff;
+  }
+  .wrapper {
+      height: 100%; 
+      width: 100%; 
+      }
+  
+  .message {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%; 
+    height:45%;
+    bottom: 0; 
+    display: block;
+    position: absolute;
+    background-color:yellow;
+    color: #fff;
+    padding: 0.5em;
+  }
